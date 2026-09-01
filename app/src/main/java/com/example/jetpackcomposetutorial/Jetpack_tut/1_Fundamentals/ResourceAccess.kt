@@ -1,4 +1,4 @@
-package com.example.jetpackcomposetutorial.`1_Fundamentals`
+package com.example.jetpackcomposetutorial.Jetpack_tut.`1_Fundamentals`
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background
